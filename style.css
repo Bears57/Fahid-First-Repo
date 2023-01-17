@@ -1,0 +1,12 @@
+.sec-1-color{
+    color: orange
+}
+
+body{
+    font-family: 'Alegreya', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+}
+section{
+    display: flex;
+}
